@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "H85Gdh3qWJao5IU5g8uNOupZw6gyDFO2ovLLg5noTdd0ILfpgrnDKtySlcD9teOLeScDrcFIDzc/GNI9N0eVag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ed Payne\\AbxClient\\AbxClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ed Payne\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.6\\system.configuration.configurationmanager.9.0.6.nupkg.sha512",
+    "C:\\Users\\Ed Payne\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.6\\system.diagnostics.eventlog.9.0.6.nupkg.sha512",
+    "C:\\Users\\Ed Payne\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.6\\system.security.cryptography.protecteddata.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
